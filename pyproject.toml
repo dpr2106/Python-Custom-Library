@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hornetcodes"
+version = "0.0.1"
+description = "My custom Hornet library"
+authors = [
+  { name="Prash" },
+]
